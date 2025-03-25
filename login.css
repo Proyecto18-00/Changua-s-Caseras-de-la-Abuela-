@@ -31,7 +31,7 @@ border-left: none;
 border-right: none;
 outline: none;
 border-bottom: 2px solid black;
-margin-top: 120px;
+margin-top: 50px;
 }
 .cajaTexto2{
     position: relative;
@@ -80,5 +80,11 @@ margin-top: 120px;
     justify-content: center;
     align-items: center;
     
+}
+
+.imagenchangua{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 80px;
 }
 
